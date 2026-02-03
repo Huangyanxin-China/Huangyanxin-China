@@ -13,13 +13,13 @@ I am a passionate researcher focusing on **Self-Supervised Learning (SSL)** and 
 ---
 
 ## 🚀 Key Projects
-* **[CVPR2023-Papers-with-Code](https://github.com/huangyanxin-China/CVPR2023-Papers-with-Code)**: A curated collection of computer vision papers and implementations.
-* **[SSL4MIS-Extension]**: (Optional: 可以在这里添加你对医学图像自监督学习的研究进展).
+* **[Brain Tumor Segmentation](https://github.com/Huangyanxin-China/YanxinHuang-2025)**: A summary of my work.
+* **[Missing-Seg]**.
+* **[3D Cardiac Reconstruction]**.
 
 ---
 
 ## 📊 GitHub Stats & Skills
-![Yanxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangyanxin-China&show_icons=true&theme=transparent&rank_icon=github)
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
