@@ -1,5 +1,7 @@
 # Yanxin Huang
 
+![Medical AI research banner](assets/research-banner.png)
+
 Research-focused developer working on medical AI, computer vision, and
 self-supervised learning for medical image analysis.
 
@@ -15,6 +17,10 @@ more robust segmentation and diagnostic models.
 - Reproducible research workflows for deep learning experiments
 
 ## Selected Work
+
+- [unet-medical-segmentation](https://github.com/Huangyanxin-China/unet-medical-segmentation)  
+  Private PyTorch and Streamlit workspace for U-Net based medical image
+  segmentation experiments.
 
 - [YanxinHuang-2025](https://github.com/Huangyanxin-China/YanxinHuang-2025)  
   Python-based research work related to medical image analysis and brain tumor
@@ -43,4 +49,3 @@ I also keep several forked repositories as references for research and learning:
 
 - ORCID: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
 - Personal page: [huangyanxin-china.github.io/User-Page](https://huangyanxin-china.github.io/User-Page/)
-
