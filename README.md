@@ -27,6 +27,7 @@ models.
 ## Featured Links
 
 - Portfolio: [huangyanxin-china.github.io/User-Page](https://huangyanxin-china.github.io/User-Page/)
+- Live demo: [Missing-Seg Streamlit Demo](https://missing-seg.streamlit.app/)
 - Research workspace: [YanxinHuang-2025](https://github.com/Huangyanxin-China/YanxinHuang-2025)
 - ORCID: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
 
@@ -43,4 +44,3 @@ models.
 
 - [CVPR2023-Papers-with-Code](https://github.com/Huangyanxin-China/CVPR2023-Papers-with-Code)
 - [tuning_playbook](https://github.com/Huangyanxin-China/tuning_playbook)
-
