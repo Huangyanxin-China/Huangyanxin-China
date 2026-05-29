@@ -1,37 +1,46 @@
-# 👋 Hello, I'm Yanxin Huang (黄沿鑫)
+# Yanxin Huang
 
-### 🔬 Researcher in Medical AI & Self-Supervised Learning
-I am a passionate researcher focusing on **Self-Supervised Learning (SSL)** and its applications in **Medical Image Analysis**. My work aims to leverage unlabeled data to improve the robustness and accuracy of medical diagnostics.
+Research-focused developer working on medical AI, computer vision, and
+self-supervised learning for medical image analysis.
 
----
+I am especially interested in how unlabeled medical data can be used to build
+more robust segmentation and diagnostic models.
 
-## 🛠 Research Interests
-* **Self-Supervised Learning**: Exploring frameworks like **DINO**, **MAE**, and **Contrastive Learning**.
-* **Medical Imaging**: MRI segmentation (BraTS), anomaly detection, and cross-modality synthesis.
-* **SSL4MIS**: Advancing self-supervised benchmarks for medical image segmentation.
+## Focus Areas
 
----
+- Self-supervised learning for medical image segmentation
+- MRI and 3D medical image analysis
+- Brain tumor segmentation and related clinical imaging tasks
+- Representation learning with DINO, MAE, contrastive learning, and related methods
+- Reproducible research workflows for deep learning experiments
 
-## 🚀 Key Projects
-* **[Brain Tumor Segmentation](https://github.com/Huangyanxin-China/YanxinHuang-2025)**: A summary of my work.
-* **[Missing-Seg]**.
-* **[3D Cardiac Reconstruction]**.
+## Selected Work
 
----
+- [YanxinHuang-2025](https://github.com/Huangyanxin-China/YanxinHuang-2025)  
+  Python-based research work related to medical image analysis and brain tumor
+  segmentation.
 
-## 📊 GitHub Stats & Skills
+- [User-Page](https://github.com/Huangyanxin-China/User-Page)  
+  Personal web page and project-facing profile site.
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Deep Learning** | `PyTorch`, `TensorFlow`, `Keras` |
-| **Computer Vision** | `OpenCV`, `Monai`, `Nibabel` |
-| **Academic** | `LaTeX`, `Overleaf`, `Zotero` |
+## Technical Stack
 
----
+| Area | Tools |
+| --- | --- |
+| Deep Learning | PyTorch, TensorFlow, Keras |
+| Medical Imaging | MONAI, Nibabel, MRI data processing |
+| Computer Vision | OpenCV, image segmentation, representation learning |
+| Research Workflow | Python, LaTeX, Overleaf, Zotero, Git |
 
-## 📫 Connect with Me
-* **ORCID**: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
-* **Personal Page**: [huangyanxin-china.github.io/User-Page/](https://huangyanxin-china.github.io/User-Page/)
+## Reading and Reference Repositories
 
----
-> "The best way to predict the future is to create it."
+I also keep several forked repositories as references for research and learning:
+
+- [CVPR2023-Papers-with-Code](https://github.com/Huangyanxin-China/CVPR2023-Papers-with-Code)
+- [tuning_playbook](https://github.com/Huangyanxin-China/tuning_playbook)
+
+## Links
+
+- ORCID: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
+- Personal page: [huangyanxin-china.github.io/User-Page](https://huangyanxin-china.github.io/User-Page/)
+
