@@ -16,6 +16,15 @@ more robust segmentation and diagnostic models.
 - Representation learning with DINO, MAE, contrastive learning, and related methods
 - Reproducible research workflows for deep learning experiments
 
+## Current Research Roadmap
+
+| Direction | Current Question |
+| --- | --- |
+| Medical image segmentation | How can models stay reliable when labels or modalities are incomplete? |
+| Missing-modality learning | How can diffusion or generation help recover useful diagnostic signals? |
+| Self-supervised representation learning | How can unlabeled medical images improve downstream segmentation? |
+| Multi-contrast MRI reconstruction | How can reconstruction reduce scan burden while preserving clinical detail? |
+
 ## Selected Work
 
 - [unet-medical-segmentation](https://github.com/Huangyanxin-China/unet-medical-segmentation)  
