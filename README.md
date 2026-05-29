@@ -2,41 +2,33 @@
 
 ![Medical AI research banner](assets/research-banner.png)
 
-Research-focused developer working on medical AI, computer vision, and
-self-supervised learning for medical image analysis.
+Medical AI researcher focused on self-supervised learning, computer vision, and
+medical image analysis. My work explores how unlabeled or incomplete medical
+imaging data can support more robust segmentation, synthesis, and reconstruction
+models.
 
-I am especially interested in how unlabeled medical data can be used to build
-more robust segmentation and diagnostic models.
+## Research Focus
 
-## Focus Areas
-
-- Self-supervised learning for medical image segmentation
-- MRI and 3D medical image analysis
-- Brain tumor segmentation and related clinical imaging tasks
-- Representation learning with DINO, MAE, contrastive learning, and related methods
-- Reproducible research workflows for deep learning experiments
+- Medical image segmentation under limited labels and missing modalities
+- Brain tumor segmentation and post-contrast MR image synthesis
+- Multi-contrast cardiac MRI reconstruction
+- Self-supervised and representation learning for medical imaging
+- Reproducible deep learning workflows for research experiments
 
 ## Current Research Roadmap
 
-| Direction | Current Question |
+| Direction | Research Question |
 | --- | --- |
-| Medical image segmentation | How can models stay reliable when labels or modalities are incomplete? |
-| Missing-modality learning | How can diffusion or generation help recover useful diagnostic signals? |
-| Self-supervised representation learning | How can unlabeled medical images improve downstream segmentation? |
-| Multi-contrast MRI reconstruction | How can reconstruction reduce scan burden while preserving clinical detail? |
+| Segmentation robustness | How can models remain reliable when labels or modalities are incomplete? |
+| Missing-modality learning | How can generation and diffusion models recover useful diagnostic signals? |
+| Self-supervised learning | How can unlabeled medical images improve downstream segmentation? |
+| MRI reconstruction | How can reconstruction reduce scan burden while preserving clinical detail? |
 
-## Selected Work
+## Featured Links
 
-- [unet-medical-segmentation](https://github.com/Huangyanxin-China/unet-medical-segmentation)  
-  Private PyTorch and Streamlit workspace for U-Net based medical image
-  segmentation experiments.
-
-- [YanxinHuang-2025](https://github.com/Huangyanxin-China/YanxinHuang-2025)  
-  Python-based research work related to medical image analysis and brain tumor
-  segmentation.
-
-- [User-Page](https://github.com/Huangyanxin-China/User-Page)  
-  Personal web page and project-facing profile site.
+- Portfolio: [huangyanxin-china.github.io/User-Page](https://huangyanxin-china.github.io/User-Page/)
+- Research workspace: [YanxinHuang-2025](https://github.com/Huangyanxin-China/YanxinHuang-2025)
+- ORCID: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
 
 ## Technical Stack
 
@@ -47,14 +39,8 @@ more robust segmentation and diagnostic models.
 | Computer Vision | OpenCV, image segmentation, representation learning |
 | Research Workflow | Python, LaTeX, Overleaf, Zotero, Git |
 
-## Reading and Reference Repositories
-
-I also keep several forked repositories as references for research and learning:
+## Reference Repositories
 
 - [CVPR2023-Papers-with-Code](https://github.com/Huangyanxin-China/CVPR2023-Papers-with-Code)
 - [tuning_playbook](https://github.com/Huangyanxin-China/tuning_playbook)
 
-## Links
-
-- ORCID: [0009-0003-2264-7753](https://orcid.org/0009-0003-2264-7753)
-- Personal page: [huangyanxin-china.github.io/User-Page](https://huangyanxin-china.github.io/User-Page/)
